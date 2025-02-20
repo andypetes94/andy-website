@@ -1,5 +1,5 @@
 <script>
-    import Logo from "$assets/DS_logo.png";
+    import Logo from "$assets/DS_Logo1.png";
     import { Button } from "$components";
     //import shite from "./../../assets/DS_logo.png";
 </script>
