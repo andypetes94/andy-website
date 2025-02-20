@@ -1,5 +1,5 @@
 <script>
-    import authorPic from "$assets/author2.png";
+    import authorPic from "$assets/author3.jpg";
 </script>
 
 <section class="landing-page-section">
